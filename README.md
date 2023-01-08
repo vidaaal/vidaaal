@@ -2,7 +2,7 @@
 
 - 🖥️  Web and Mobile Developer;
 - 🌱 I'm learning daily about ReactJS, NodeJS, React Native and the entire ecosystem behind these technologies;
-- 🚀 As a developer, I always seek to apply best practices to deliver performance applications with a good end-user experience;
+- 🚀 As a developer, I always seek to apply the best practices to deliver performance applications with a good end-user experience;
 - 📫 Get in touch: vidalvinicius05@gmail.com;
 
 <div>
