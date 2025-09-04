@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rafael Vidal</h1>
 <h3 align="center">A student of Systems Analysis and Development at FACENS.</h3>
 
-![49e76e0596857673c5c80c85b84394c1](https://github.com/user-attachments/assets/3d314608-42a1-48f9-92e5-25a3a1e2f1ab)![49e76e0596857673c5c80c85b84394c1](https://github.com/user-attachments/assets/71871c19-727d-41c6-ad3c-a5b6e4026ce1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ed68c35-7d45-44af-b96a-a05bcb229453" alt="welcome-welcome-images" />
+</p>
 
 
 - 🌱 I’m currently learning **Java**
